@@ -48,6 +48,8 @@ Este é um modelo prévio usando HTML e CSS para demonstrar as funcionalidades d
         color: bisque;
     }
     </style>
+
+    
     <title>Html 5 Dio - Tabela</title>
 </head>
 <body>
